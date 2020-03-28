@@ -1,14 +1,13 @@
 const fs = require("fs");
 const path = require("path");
 const commander = require("commander");
-const $ = require("jquery");
 import { crawler } from "./lib/crawler";
-import { newsItem, newsItemRaw } from "./lib/types";
+import { newsItem } from "./lib/types";
+import { newsItemRaw } from "./lib/naganoTypes";
 import { mapper } from "./lib/mapper";
+import { URL, getEvaluatePage } from "./lib/naganoConfig";
 
 const JSON_DIR = path.join(__dirname, ".json");
-const URL =
-  "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/bukan-haien.html";
 
 commander
   .description(
@@ -40,27 +39,12 @@ function launchCrawler(): Promise<newsItemRaw[]> {
   // Set up parameters for the crawler
   let results: newsItemRaw[] = [];
 
-  function evaluatePage() {
-    // This part will be implemented in the target page.
-    const newsItemsRaw: { href: string; text: string }[] = [];
-    $("#tmp_contents>div.outline:nth-of-type(1)>ul>li").each(
-      (_idx: number, el: any) => {
-        newsItemsRaw.push({
-          href: $(el)
-            .find("a")
-            .attr("href"),
-          text: $(el).text()
-        });
-      }
-    );
-    return newsItemsRaw;
-  }
   function onSuccess(res: { result: newsItemRaw[] }) {
     results = res.result || [];
   }
 
   return new Promise((resolve, reject) => {
-    crawler({ url: URL, evaluatePage, onSuccess })
+    crawler({ url: URL, evaluatePage: getEvaluatePage(), onSuccess })
       .then(() => resolve(results))
       .catch(err => reject(err));
   });

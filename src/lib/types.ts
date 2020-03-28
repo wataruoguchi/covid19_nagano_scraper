@@ -3,8 +3,3 @@ export type newsItem = {
   url: string;
   text: string;
 };
-
-export type newsItemRaw = {
-  href: string;
-  text: string;
-};

@@ -1,4 +1,5 @@
-import { newsItem, newsItemRaw } from "./types";
+import { newsItem } from "./types";
+import { newsItemRaw } from "./naganoTypes";
 export function mapper(
   url: string,
   source: newsItemRaw[]
