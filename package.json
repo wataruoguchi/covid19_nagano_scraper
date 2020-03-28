@@ -1,0 +1,36 @@
+{
+  "name": "covid19_nagano_scraper",
+  "version": "1.0.0",
+  "description": "Scrape Prefecture of Nagano's website and create JSON",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc -p .",
+    "start": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "type-check": "tsc -p tsconfig.json --noEmit"
+  },
+  "keywords": [
+    "opendata",
+    "covid19",
+    "covid-19",
+    "json",
+    "covid19-data",
+    "coronavirus",
+    "coronavirus-info",
+    "nodejs",
+    "typescript"
+  ],
+  "author": "Wataru Oguchi <wataru.oguchi.0to1@gmail.com> (https://twitter.com/watarutwt/)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jquery": "^3.3.34",
+    "ts-node": "^8.8.1",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "@types/node": "^12.12.31",
+    "commander": "^5.0.0",
+    "headless-chrome-crawler": "^1.8.0",
+    "jquery": "^3.4.1"
+  }
+}
