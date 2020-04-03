@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020/04/02",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/bukan-haien.html#kaigihotei",
+      "text": "「第3回新型コロナウイルス感染症長野県対策本部会議」を開催しました"
+    },
+    {
       "date": "2020/04/01",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/bukan-haien.html#haikibutu",
       "text": "「新型コロナウイルスに係る廃棄物の処理について」を掲載しました"
@@ -13,7 +18,7 @@
     {
       "date": "2020/03/31",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/bukan-haien.html#kaigihotei",
-      "text": "「第1回新型コロナウイルス感染症長野県対策本部会議」を開催しました"
+      "text": "「第2回新型コロナウイルス感染症長野県対策本部会議」を開催しました"
     },
     {
       "date": "2020/03/30",
