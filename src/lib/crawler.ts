@@ -9,7 +9,8 @@ export async function crawler(opts: crawlerOptions) {
   const { url, evaluatePage, onSuccess } = opts;
   const crawler = await HCCrawler.launch({
     evaluatePage,
-    onSuccess
+    onSuccess,
+    args: ["--disable-dev-shm-usage", "--no-sandbox"],
   });
   // Queue a request
   await crawler.queue(url);
