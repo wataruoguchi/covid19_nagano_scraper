@@ -21,7 +21,7 @@ $ yarn start
 
 ## Specification
 
-1. [長野県の Web ページ](https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/bukan-haien.html)のニュース一覧を JSON ファイルに変換します。
+1. [長野県の Web ページ](https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona.html)のニュース一覧を JSON ファイルに変換します。
 
 ## About the JSON file
 
