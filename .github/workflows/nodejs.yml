@@ -26,12 +26,11 @@ jobs:
           yarn start
 
       - name: Commit files
-        id: gitcommit
         run: |
           git config --local user.email "wataru.oguchi.0to1@gmail.com"
           git config --local user.name "Wataru Bot"
-          echo "::set-output name=has_new_commit:1"
-          git status | grep modified && git add src/.json && git commit -v -m "[Bot] GitHub Actions - auto run" && echo "::set-output name=has_new_commit::1" || true
+          echo "::set-env name=has_new_commit::0"
+          git status | grep modified && git add src/.json && git commit -v -m "[Bot] GitHub Actions - auto run" && echo "::set-env name=has_new_commit::1" || true
 
       - name: Push changes
         uses: ad-m/github-push-action@master
@@ -40,4 +39,4 @@ jobs:
 
       - name: Netlify Build Hook
         run: curl -X POST -d {} https://api.netlify.com/build_hooks/5e8a813d1d2998dc6c47107f
-        if: ${{ steps.gitcommit.outputs.has_new_commit }}
+        if: ${{ steps.env.has_new_commit }}
