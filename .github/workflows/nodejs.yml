@@ -4,8 +4,9 @@
 name: Node.js CI
 
 on:
-  schedule:
-    - cron: "0 * * * *"
+  # schedule:
+  #   - cron: "0 * * * *"
+  push:
 
 jobs:
   build-run-deploy:
@@ -25,12 +26,18 @@ jobs:
           yarn start
 
       - name: Commit files
+        id: gitcommit
         run: |
           git config --local user.email "wataru.oguchi.0to1@gmail.com"
           git config --local user.name "Wataru Bot"
-          git status | grep modified && git add src/.json && git commit -v -m "[Bot] GitHub Actions - auto run" || true
+          ::set-output name=has_new_commit:0
+          git status | grep modified && git add src/.json && git commit -v -m "[Bot] GitHub Actions - auto run" && ::set-output name=has_new_commit::1 || true
 
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Netlify Build Hook
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/5e8a75042c67966c10536aa4
+        if: ${{ steps.gitcommit.outputs.has_new_commit }}
