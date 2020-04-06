@@ -30,8 +30,8 @@ jobs:
         run: |
           git config --local user.email "wataru.oguchi.0to1@gmail.com"
           git config --local user.name "Wataru Bot"
-          ::set-output name=has_new_commit:0
-          git status | grep modified && git add src/.json && git commit -v -m "[Bot] GitHub Actions - auto run" && ::set-output name=has_new_commit::1 || true
+          echo "::set-output name=has_new_commit:0"
+          git status | grep modified && git add src/.json && git commit -v -m "[Bot] GitHub Actions - auto run" && echo "::set-output name=has_new_commit::1" || true
 
       - name: Push changes
         uses: ad-m/github-push-action@master
