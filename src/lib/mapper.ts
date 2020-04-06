@@ -5,7 +5,7 @@ export function mapper(
   source: newsItemRaw[]
 ): { newsItems: newsItem[] } {
   return {
-    newsItems: source.map(rawToData(url))
+    newsItems: source.map(rawToData(url)),
   };
 }
 
@@ -14,7 +14,7 @@ function numToStr2digs(numStr: string): string {
 }
 
 function rawToData(sourceUrl: string) {
-  return function(newsItemRaw: newsItemRaw): newsItem {
+  return function (newsItemRaw: newsItemRaw): newsItem {
     const dateReg = RegExp(/^(\d+)月(\d+)日/);
 
     /**
@@ -33,8 +33,8 @@ function rawToData(sourceUrl: string) {
       date: japaneseShortDateToYMD(newsItemRaw.text),
       url: /^#/.test(newsItemRaw.href)
         ? sourceUrl + newsItemRaw.href
-        : newsItemRaw.href,
-      text: newsItemRaw.text.replace(dateReg, "").trim()
+        : "https://www.pref.nagano.lg.jp" + newsItemRaw.href,
+      text: newsItemRaw.text.replace(dateReg, "").trim(),
     };
   };
 }
