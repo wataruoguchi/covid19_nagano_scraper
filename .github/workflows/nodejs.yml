@@ -39,4 +39,4 @@ jobs:
 
       - name: Netlify Build Hook
         run: curl -X POST -d {} https://api.netlify.com/build_hooks/5e8a813d1d2998dc6c47107f
-        if: ${{ steps.env.has_new_commit }}
+        if: env.has_new_commit == 1
