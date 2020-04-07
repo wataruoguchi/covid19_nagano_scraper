@@ -38,17 +38,15 @@ jobs:
       - name: Kick dispatch API
         run: |
           curl -X POST \
-            -u "${{ secrets.GITHUB_TOKEN }}" \
-            -H "Accept: application/vnd.github.everest-preview+json" \
-            -H "Content-Type: application/json" \
-            https://api.github.com/repos/Stop-COVID19-Nagano/covid19/dispatches --data '{"event_type": "build_application"}'
-      - name: Kick dispatch API
-        run: |
-          curl -X POST \
             -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
             -H "Accept: application/vnd.github.everest-preview+json" \
             -H "Content-Type: application/json" \
             https://api.github.com/repos/Stop-COVID19-Nagano/covid19/dispatches --data '{"event_type": "build_application"}'
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          event-type: build_application
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
