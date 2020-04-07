@@ -42,12 +42,6 @@ jobs:
             -H "Accept: application/vnd.github.everest-preview+json" \
             -H "Content-Type: application/json" \
             https://api.github.com/repos/Stop-COVID19-Nagano/covid19/dispatches --data '{"event_type": "build_application"}'
-      - name: Repository Dispatch
-        uses: peter-evans/repository-dispatch@v1
-        with:
-          token: ${{ secrets.ACCESS_TOKEN }}
-          repository: Stop-COVID19-Nagano/covid19
-          event-type: build_application
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
