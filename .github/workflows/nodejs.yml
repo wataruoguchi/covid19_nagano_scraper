@@ -31,7 +31,7 @@ jobs:
           git config --local user.name "Wataru Bot"
           git status | grep modified && git add src/.json && git commit -v -m "[Bot] GitHub Actions - auto run" || true
           curl -X POST \
-            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -u "${{ secrets.PAT_USERNAME}}:${{secrets.PAT_TOKEN}}" \
             -H "Accept: application/vnd.github.everest-preview+json" \
             -H "Content-Type: application/json" \
             https://api.github.com/repos/Stop-COVID19-Nagano/covid19/dispatches --data '{"event_type": "build_application"}'
