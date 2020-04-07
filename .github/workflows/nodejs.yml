@@ -29,7 +29,7 @@ jobs:
           git config --local user.email "wataru.oguchi.0to1@gmail.com"
           git config --local user.name "Wataru Bot"
           git status | grep modified && git add src/.json && git commit -v -m "[Bot] GitHub Actions - auto run" \
-            curl -X POST \
+            && curl -X POST \
               -H "Authorization: Bearer ${{ secrets.ACCESS_TOKEN }}" \
               -H "Accept: application/vnd.github.everest-preview+json" \
               -H "Content-Type: application/json" \
