@@ -46,6 +46,7 @@ jobs:
         uses: peter-evans/repository-dispatch@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          repository: Stop-COVID19-Nagano/covid19
           event-type: build_application
       - name: Push changes
         uses: ad-m/github-push-action@master
