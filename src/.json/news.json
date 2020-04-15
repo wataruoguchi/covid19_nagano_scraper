@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020/04/15",
+      "url": "https://www.pref.nagano.lg.jphttps://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-naganoken-taiou.html#shisetuive",
+      "text": "「県有施設及び県主催イベント・行事の取扱いについて」を掲載しました"
+    },
+    {
       "date": "2020/04/14",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#keikaisengen",
       "text": "長野圏域及び松本圏域に対し「新型コロナウイルス警戒宣言」を発令しました"
@@ -19,11 +24,6 @@
       "date": "2020/04/13",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html",
       "text": "「新型コロナウイルス感染症「感染対策強化期間」中（4月22日まで）」を掲載しました"
-    },
-    {
-      "date": "2020/04/10",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-kisotisiki.html#NHK",
-      "text": "「NHK新型コロナウイルス関連情報」を掲載しました"
     }
   ]
 }
