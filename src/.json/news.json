@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020/04/16",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-naganoken-taiou.html#kaigihotei",
+      "text": "「第6回新型コロナウイルス感染症長野県対策本部会議」を開催しましt"
+    },
+    {
       "date": "2020/04/15",
       "url": "https://www.pref.nagano.lg.jphttps://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-naganoken-taiou.html#shisetuive",
       "text": "「県有施設及び県主催イベント・行事の取扱いについて」を掲載しました"
@@ -19,11 +24,6 @@
       "date": "2020/04/14",
       "url": "https://www.pref.nagano.lg.jphttps://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html",
       "text": "「医療関係者、県民へのメッセージ」を掲載しました"
-    },
-    {
-      "date": "2020/04/13",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html",
-      "text": "「新型コロナウイルス感染症「感染対策強化期間」中（4月22日まで）」を掲載しました"
     }
   ]
 }
