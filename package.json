@@ -30,7 +30,6 @@
   "dependencies": {
     "@types/node": "^12.12.31",
     "commander": "^5.0.0",
-    "headless-chrome-crawler": "^1.8.0",
-    "jquery": "^3.4.1"
+    "headless-chrome-crawler": "^1.8.0"
   }
 }

@@ -1,11 +1,8 @@
 import { newsItem } from "./types";
 import { newsItemRaw } from "./naganoTypes";
-export function mapper(
-  url: string,
-  source: newsItemRaw[]
-): { newsItems: newsItem[] } {
+export function mapper(source: newsItemRaw[]): { newsItems: newsItem[] } {
   return {
-    newsItems: source.map(rawToData(url)),
+    newsItems: source.map(rawToData()),
   };
 }
 
@@ -13,7 +10,7 @@ function numToStr2digs(numStr: string): string {
   return numStr.padStart(2, "0");
 }
 
-function rawToData(sourceUrl: string) {
+function rawToData() {
   return function (newsItemRaw: newsItemRaw): newsItem {
     const dateReg = RegExp(/^(\d+)月(\d+)日/);
 
@@ -31,9 +28,7 @@ function rawToData(sourceUrl: string) {
 
     return {
       date: japaneseShortDateToYMD(newsItemRaw.text),
-      url: /^#/.test(newsItemRaw.href)
-        ? sourceUrl + newsItemRaw.href
-        : "https://www.pref.nagano.lg.jp" + newsItemRaw.href,
+      url: newsItemRaw.href,
       text: newsItemRaw.text.replace(dateReg, "").trim(),
     };
   };
