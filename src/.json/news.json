@@ -2,6 +2,11 @@
   "newsItems": [
     {
       "date": "2020/04/22",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona_kyuugyo.html",
+      "text": "「施設の使用停止等の要請・休業依頼について」 を掲載しました"
+    },
+    {
+      "date": "2020/04/22",
       "url": "https://www.pref.nagano.lg.jp/sansei/sangyo/shokogyo/covid19kyoryoku.html",
       "text": "「 県・市町村連携新型コロナウイルス拡大防止協力企業等特別支援事業（予定）について」を掲載しました"
     },
@@ -19,11 +24,6 @@
       "date": "2020/04/17",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#kinkyujitai",
       "text": "「新型コロナウイルス感染症拡大防止のための長野県の緊急事態措置等」を掲載しました"
-    },
-    {
-      "date": "2020/04/17",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-naganoken-taiou.html#kihontekitaisyohoshin",
-      "text": "「新型コロナウイルス感染症対策・長野県の基本的対処方針について」を更新しました"
     }
   ]
 }
