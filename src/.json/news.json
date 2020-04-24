@@ -2,6 +2,11 @@
   "newsItems": [
     {
       "date": "2020/04/24",
+      "url": "https://www.pref.nagano.lg.jp/zeimu/happyou/200423press.html",
+      "text": "「新型コロナウイルス感染症対策「助け合いふるさと寄付金」の募集」を掲載しました。"
+    },
+    {
+      "date": "2020/04/24",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html",
       "text": "「新型コロナウイルス感染症「感染対策強化期間」中（～5月6日まで）」の内容を更新しました"
     },
@@ -18,12 +23,7 @@
     {
       "date": "2020/04/22",
       "url": "https://www.pref.nagano.lg.jp/sansei/sangyo/shokogyo/covid19kyoryoku.html",
-      "text": "「 県・市町村連携新型コロナウイルス拡大防止協力企業等特別支援事業（予定）について」を掲載しました"
-    },
-    {
-      "date": "2020/04/21",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-kinkyu.html",
-      "text": "「新型コロナウイルス感染症拡大防止のための長野県における緊急事態措置等（第2弾）」を掲載しました"
+      "text": "「県・市町村連携新型コロナウイルス拡大防止協力企業等特別支援事業（予定）について」を掲載しました"
     }
   ]
 }
