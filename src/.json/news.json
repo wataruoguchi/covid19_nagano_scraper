@@ -1,29 +1,3 @@
 {
-  "newsItems": [
-    {
-      "date": "2020/04/25",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/documents/20200424oyasumi.pdf",
-      "text": "「信州の観光はお休み中」キャンペーン（PDF：1,044KB）"
-    },
-    {
-      "date": "2020/04/25",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/documents/20200424nyuin.pdf",
-      "text": "入院医療体制の充実（PDF：987KB）"
-    },
-    {
-      "date": "2020/04/25",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/documents/20200424keizai.pdf",
-      "text": "事業者や家計への経済的支援（PDF：436KB）"
-    },
-    {
-      "date": "2020/04/25",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/documents/20200424okaimono.pdf",
-      "text": "お買い物時のお願い（PDF：264KB）"
-    },
-    {
-      "date": "2020/04/25",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#super",
-      "text": "「スーパーマーケット等における新型コロナウイルス感染症の感染拡大防止について」を掲載しました"
-    }
-  ]
+  "newsItems": []
 }
