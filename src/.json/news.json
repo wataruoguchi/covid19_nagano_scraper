@@ -1,3 +1,34 @@
 {
-  "newsItems": []
+  "newsItems": [
+    {
+      "date": "2020/04/25",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#super",
+      "text": "「スーパーマーケット等における新型コロナウイルス感染症の感染拡大防止について」を掲載しました"
+    },
+    {
+      "date": "2020/04/24",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-service.html",
+      "text": "「信州の観光はお休み中です」 、「入院医療・検査体制」、「経済的支援」、「買い物時のお願い」"
+    },
+    {
+      "date": "2020/04/23",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-sengen.html",
+      "text": "「北信圏域に対し「新型コロナウイルス警戒宣言」を発令しました"
+    },
+    {
+      "date": "2020/04/22",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona_kyuugyo.html",
+      "text": "「施設の使用停止等の要請・休業依頼について」 を掲載しました"
+    },
+    {
+      "date": "2020/04/22",
+      "url": "https://www.pref.nagano.lg.jp/sansei/sangyo/shokogyo/covid19kyoryoku.html",
+      "text": "「 県・市町村連携新型コロナウイルス拡大防止協力企業等特別支援事業（予定）について」を掲載しました"
+    },
+    {
+      "date": "2020/04/21",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-kinkyu.html",
+      "text": "「新型コロナウイルス感染症拡大防止のための長野県における緊急事態措置等（第2弾）」を掲載しました"
+    }
+  ]
 }
