@@ -22,10 +22,32 @@ if (commander.help) {
 console.log("STARTED");
 mkDirs();
 
+type scrapedResult = {
+  newsItemsRaw: newsItemRaw[];
+  newsHtmlRows: string[];
+};
 launchCrawler()
-  .then((results: newsItemRaw[]) => {
+  .then((results: scrapedResult) => {
     // Generating a JSON file.
-    const newsItemsData: { newsItems: newsItem[] } = mapper(results);
+    const newsHtmlRows: { newsItems: newsItem[] } = mapper(
+      results.newsHtmlRows.map((row) => {
+        return { text: row, href: "" };
+      })
+    );
+    const newsItemsData: { newsItems: newsItem[] } = mapper(
+      results.newsItemsRaw
+    );
+    fs.writeFileSync(
+      [JSON_DIR, "newsHtml.json"].join("/"),
+      JSON.stringify(
+        newsHtmlRows.newsItems.map((row: newsItem) => {
+          delete row.url;
+          return row;
+        }),
+        null,
+        2
+      )
+    );
     fs.writeFileSync(
       [JSON_DIR, "news.json"].join("/"),
       JSON.stringify(newsItemsData, null, 2)
@@ -35,12 +57,15 @@ launchCrawler()
   })
   .catch((err) => console.error(err));
 
-function launchCrawler(): Promise<newsItemRaw[]> {
+function launchCrawler(): Promise<scrapedResult> {
   // Set up parameters for the crawler
-  let results: newsItemRaw[] = [];
+  let results: scrapedResult = {
+    newsItemsRaw: [],
+    newsHtmlRows: [],
+  };
 
-  function onSuccess(res: { result: newsItemRaw[] }) {
-    results = res.result || [];
+  function onSuccess(res: { result: scrapedResult }) {
+    results = res.result;
   }
 
   return new Promise((resolve, reject) => {
