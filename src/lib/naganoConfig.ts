@@ -7,7 +7,7 @@ export function getEvaluatePage() {
     // This part will be implemented in the target page.
     const newsItemsRaw: { href: string; text: string }[] = [];
     const listItems = document.querySelectorAll(
-      "#tmp_contents>div.outline:nth-of-type(1)>ul>li"
+      "#tmp_contents>table>tbody>tr>td>ul>li"
     );
     listItems.forEach((listItem) => {
       const anchor = listItem.querySelector("a");
