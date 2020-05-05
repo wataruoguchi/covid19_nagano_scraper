@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020/05/05",
+      "url": "https://www.pref.nagano.lg.jp/koho/happyou/20200505press.html",
+      "text": "「新型コロナウイルスお困りごと相談センター」を設置しました"
+    },
+    {
       "date": "2020/05/01",
       "url": "https://www.pref.nagano.lg.jp/kodomo-katei/happyou/press_center_20200501.html",
       "text": "連休期間中も児童虐待・DVに関するご相談を受け付けています"
