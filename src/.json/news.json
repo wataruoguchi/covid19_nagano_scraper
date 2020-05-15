@@ -1,9 +1,19 @@
 {
   "newsItems": [
     {
-      "date": "2020/05/05",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-kinkyu.html",
-      "text": "緊急事態宣言の期間の延長を受けた長野県としての対応について"
+      "date": "2020/05/15",
+      "url": "https://www.pref.nagano.lg.jp/sansei/happyou/200515press.html",
+      "text": "「県・市町村連携 新型コロナウイルス感染拡大防止協力金等」の申請受付期間を延長します"
+    },
+    {
+      "date": "2020/05/15",
+      "url": "https://www.pref.nagano.lg.jp/service/corona_taisakusengen.html",
+      "text": "「新型コロナ対策推進宣言の店」がスタートします！～ ”新しい生活様式”に合わせた営業スタイルの促進～"
+    },
+    {
+      "date": "2020/05/15",
+      "url": "https://www.pref.nagano.lg.jp/kankoshin/happyou/200515press.html",
+      "text": "「STAY信州」地域支えあいキャンペーン 観光事業者の営業再開の取組を支援します"
     },
     {
       "date": "2020/05/05",
@@ -12,18 +22,8 @@
     },
     {
       "date": "2020/05/01",
-      "url": "https://www.pref.nagano.lg.jp/kodomo-katei/happyou/press_center_20200501.html",
-      "text": "連休期間中も児童虐待・DVに関するご相談を受け付けています"
-    },
-    {
-      "date": "2020/05/01",
       "url": "https://www.pref.nagano.lg.jp/eigyo/ouenhojokin.html",
       "text": "「飲食・サービス業等新型コロナウイルス対策応援事業」を実施します"
-    },
-    {
-      "date": "2020/04/30",
-      "url": "https://www.pref.nagano.lg.jp/sansei/sangyo/shokogyo/covid19kyoryoku.html",
-      "text": "「県・市町村連携 新型コロナウイルス感染拡大防止協力金等」の申請方法等について"
     }
   ]
 }
