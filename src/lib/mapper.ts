@@ -21,7 +21,7 @@ function rawToData() {
      */
     function japaneseShortDateToYMD(japaneseShortDate: string): string {
       const regexRes = japaneseShortDate.match(dateReg);
-      if (!regexRes || !regexRes.length) return japaneseShortDate;
+      if (!regexRes || !regexRes.length) return "";
       // TODO: Assuming it's 2020. Wish I don't need to update here.
       return `2020/${numToStr2digs(regexRes[1])}/${numToStr2digs(regexRes[2])}`;
     }
