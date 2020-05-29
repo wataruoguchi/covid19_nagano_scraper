@@ -1,9 +1,9 @@
 {
   "newsItems": [
     {
-      "date": "",
+      "date": "2020/06/01",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-kinkyu.html",
-      "text": "【緊急事態措置等】5月16日以降の長野県としての対応について"
+      "text": "以降の長野県としての対応について"
     },
     {
       "date": "",
@@ -27,18 +27,8 @@
     },
     {
       "date": "2020/05/15",
-      "url": "https://www.pref.nagano.lg.jp/kankoshin/happyou/200515press.html",
-      "text": "「STAY信州」地域支えあいキャンペーン 観光事業者の営業再開の取組を支援します"
-    },
-    {
-      "date": "2020/05/05",
-      "url": "https://www.pref.nagano.lg.jp/koho/happyou/20200505press.html",
-      "text": "「新型コロナウイルスお困りごと相談センター」を設置しました"
-    },
-    {
-      "date": "2020/05/01",
-      "url": "https://www.pref.nagano.lg.jp/eigyo/ouenhojokin.html",
-      "text": "「飲食・サービス業等新型コロナウイルス対策応援事業」を実施します"
+      "url": "https://www.pref.nagano.lg.jp/kankoshin/kensei/soshiki/soshiki/kencho/kankoshinko/index.html",
+      "text": "「STAY信州」地域支えあいキャンペーン」について"
     }
   ]
 }
