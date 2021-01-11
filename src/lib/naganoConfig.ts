@@ -1,7 +1,7 @@
 import { newsItemRaw } from "./naganoTypes";
 
 export const BASE_URL =
-  "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona.html";
+  "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html";
 export function getEvaluatePage() {
   return function evaluatePage(): {
     newsItemsRaw: newsItemRaw[];
