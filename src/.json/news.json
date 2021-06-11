@@ -1,36 +1,6 @@
 {
   "newsItems": [
     {
-      "date": "",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-kinkyu.html",
-      "text": "長野県としての対応（4月28日以降）について"
-    },
-    {
-      "date": "",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/coronajoreiseitei.html",
-      "text": "「長野県新型コロナウイルス感染症等対策条例」はこちら"
-    },
-    {
-      "date": "",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/monitoring.html",
-      "text": "県内の圏域ごとの発生状況、他都道府県のモニタリング等"
-    },
-    {
-      "date": "",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-event.html",
-      "text": "大規模イベント等の開催に係る県への事前相談について（イベント主催者様へ）"
-    },
-    {
-      "date": "",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#jigyosyo",
-      "text": "（事業者の皆様へ）感染拡大防止のための対策について"
-    },
-    {
-      "date": "",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-jushinbikae.html",
-      "text": "過度な受診控えをせず、適切に医療機関を受診しましょう。"
-    },
-    {
       "date": "2020/06/08",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#iryokeiho",
       "text": "全県に対する「医療警報」を解除します"
@@ -44,16 +14,6 @@
       "date": "2020/06/04",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#inashitoulv5",
       "text": "伊那市、駒ケ根市、箕輪町、南箕輪村及び宮田村における酒類の提供を行う飲食店等に対する営業時間の短縮等の要請を終了します"
-    },
-    {
-      "date": "2020/03/17",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#huanmese",
-      "text": "阿部守一から、さまざまな不安を抱える方へのメッセージ"
-    },
-    {
-      "date": "2020/03/01",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#withcorona",
-      "text": "県、市長会・町村会、経済・労働団体が「社会経済活動の活性化に向けた申し合わせ」を行いました"
     }
   ]
 }
