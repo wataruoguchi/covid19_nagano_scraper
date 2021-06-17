@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020/06/17",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#zenken3kaijyo",
+      "text": "全圏域の感染警戒レベル３を解除し各圏域の感染状況に応じたレベルに切り替えます"
+    },
+    {
       "date": "2020/06/08",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#iryokeiho",
       "text": "全県に対する「医療警報」を解除します"
