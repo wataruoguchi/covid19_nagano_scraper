@@ -1,6 +1,16 @@
 {
   "newsItems": [
     {
+      "date": "2020/07/07",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#suwalv1",
+      "text": "諏訪圏域の感染警戒レベルを3から1とします"
+    },
+    {
+      "date": "2020/07/07",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#kamiinalv1",
+      "text": "上伊那圏域の感染警戒レベルを4から1とします"
+    },
+    {
       "date": "2020/07/05",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#uedalv1",
       "text": "上田圏域の感染警戒レベルを2から1とします"
@@ -9,36 +19,6 @@
       "date": "2020/07/01",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#matsumotolv1",
       "text": "松本圏域の感染警戒レベルを2から1とします"
-    },
-    {
-      "date": "2020/06/23",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#kamiinalv4",
-      "text": "上伊那圏域に「新型コロナウイルス特別警報Ⅰ」を発出します"
-    },
-    {
-      "date": "2020/06/20",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#suwalv3",
-      "text": "諏訪圏域に「新型コロナウイルス警報」を発出します"
-    },
-    {
-      "date": "2020/06/17",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#zenken3kaijyo",
-      "text": "全圏域の感染警戒レベル３を解除し各圏域の感染状況に応じたレベルに切り替えます"
-    },
-    {
-      "date": "2020/06/08",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#iryokeiho",
-      "text": "全県に対する「医療警報」を解除します"
-    },
-    {
-      "date": "2020/06/04",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#zenkenlv3",
-      "text": "全圏域の感染警戒レベルを４から３とし「特別警報Ⅰ」から「警報」に切り替えます"
-    },
-    {
-      "date": "2020/06/04",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#inashitoulv5",
-      "text": "伊那市、駒ケ根市、箕輪町、南箕輪村及び宮田村における酒類の提供を行う飲食店等に対する営業時間の短縮等の要請を終了します"
     }
   ]
 }
