@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020/07/22",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#suwakamiinalv2",
+      "text": "諏訪圏域及び上伊那圏域に「新型コロナウイルス注意報」を発出します"
+    },
+    {
       "date": "2020/07/17",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#uedalv2",
       "text": "上田圏域に「新型コロナウイルス注意報」を発出します"
@@ -14,21 +19,6 @@
       "date": "2020/07/09",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#naganolv2",
       "text": "長野圏域に「新型コロナウイルス注意報」を発出します"
-    },
-    {
-      "date": "2020/07/07",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#suwalv1",
-      "text": "諏訪圏域の感染警戒レベルを3から1とします"
-    },
-    {
-      "date": "2020/07/07",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#kamiinalv1",
-      "text": "上伊那圏域の感染警戒レベルを4から1とします"
-    },
-    {
-      "date": "2020/07/01",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#matsumotolv1",
-      "text": "松本圏域の感染警戒レベルを2から1とします"
     }
   ]
 }
