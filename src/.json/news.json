@@ -1,6 +1,16 @@
 {
   "newsItems": [
     {
+      "date": "2020/08/06",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#iryoukeihou",
+      "text": "全県に「医療警報」を発出します"
+    },
+    {
+      "date": "2020/08/06",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#sakuuedajitan",
+      "text": "佐久圏域の一部市町及び上田圏域の新型コロナウイルス感染症対策を強化します"
+    },
+    {
       "date": "2020/08/05",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#sakuuedalv5",
       "text": "佐久圏域の一部市町及び上田圏域の感染警戒レベルを5に引き上げ「新型コロナウイルス特別警報Ⅱ」を発出します"
