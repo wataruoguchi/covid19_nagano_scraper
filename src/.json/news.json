@@ -1,6 +1,16 @@
 {
   "newsItems": [
     {
+      "date": "2020/08/13",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#suwalv5",
+      "text": "諏訪圏域の感染警戒レベルを５に引き上げ「新型コロナウイルス特別警報Ⅱ」を発出します"
+    },
+    {
+      "date": "2020/08/13",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#minamishinsyu",
+      "text": "南信州圏域に「新型コロナウイルス特別警報Ⅰ」を発出します"
+    },
+    {
       "date": "2020/08/11",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#matsumotoshilv5",
       "text": "松本市、塩尻市及び安曇野市の感染警戒レベルを5に引き上げ「新型コロナウイルス特別警報Ⅱ」を発出します"
@@ -42,18 +52,8 @@
     },
     {
       "date": "2020/07/30",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#suwalv4",
-      "text": "諏訪圏域に「新型コロナウイルス特別警報Ⅰ」を発出します"
-    },
-    {
-      "date": "2020/07/30",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#zenkenlv3",
       "text": "全圏域に「新型コロナウイルス警報」を発出します"
-    },
-    {
-      "date": "2020/07/27",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#suwalv3",
-      "text": "諏訪圏域に「新型コロナウイルス警報」を発出します"
     },
     {
       "date": "2020/07/26",
