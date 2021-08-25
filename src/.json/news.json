@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020/08/25",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#minami_matumoto_kitaarupusu",
+      "text": "南信州圏域、松本圏域及び北アルプス圏域における新型コロナウイルス感染症対策を強化します"
+    },
+    {
       "date": "2020/08/24",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#suwa",
       "text": "諏訪圏域の全市町村における営業時間の短縮等の要請の期間を延長します"
