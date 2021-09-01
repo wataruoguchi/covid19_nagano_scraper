@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020/09/01",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#kitaarupusu",
+      "text": "北アルプス圏域の全市町村における営業時間の短縮等の要請の期間を延長します"
+    },
+    {
       "date": "2020/08/30",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#syuutyuutaisaku",
       "text": "全県の「特別警報Ⅱ」を延長するとともに、9月3日から12日までを「命と暮らしを救う集中対策期間」として対策を強化します。"
