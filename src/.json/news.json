@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020/09/04",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#matumoto",
+      "text": "松本市、塩尻市及び安曇野市における営業時間の短縮等の要請の期間を延長します"
+    },
+    {
       "date": "2020/09/01",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#kitaarupusu",
       "text": "北アルプス圏域の全市町村における営業時間の短縮等の要請の期間を延長します"
@@ -37,48 +42,13 @@
     },
     {
       "date": "2020/08/23",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#matumoto",
-      "text": "松本市、塩尻市及び安曇野市の営業時間の短縮等の要請の期間を延長します"
-    },
-    {
-      "date": "2020/08/23",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#kamiina",
       "text": "上伊那圏域における新型コロナウイルス感染症対策を強化します"
-    },
-    {
-      "date": "2020/08/21",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#hakubajitan",
-      "text": "白馬村における新型コロナウイルス感染症対策を強化します"
     },
     {
       "date": "2020/08/20",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#zennkennlv5",
       "text": "医療非常事態宣言の発出および全県の感染警戒レベルを５に引き上げ「新型コロナウイルス特別警報Ⅱ」を発出します"
-    },
-    {
-      "date": "2020/08/19",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#minamishinsyuhokushinlv5",
-      "text": "飯田市、中野市及び山ノ内町の感染警戒レベルを５に引き上げ「新型コロナウイルス特別警報Ⅱ」を発出します"
-    },
-    {
-      "date": "2020/08/17",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#sakuuedalv5",
-      "text": "佐久圏域の一部市町及び上田圏域の感染警戒レベルを5「新型コロナウイルス特別警報Ⅱ」及び営業時間の短縮等の要請の期間を延長します"
-    },
-    {
-      "date": "2020/08/16",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#naganolv5",
-      "text": "長野圏域の一部市町村の感染警戒レベルを５に引き上げ「新型コロナウイルス特別警報Ⅱ」を発出します"
-    },
-    {
-      "date": "2020/08/13",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#suwalv5",
-      "text": "諏訪圏域の感染警戒レベルを５に引き上げ「新型コロナウイルス特別警報Ⅱ」を発出します"
-    },
-    {
-      "date": "2020/08/11",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#matsumotoshilv5",
-      "text": "松本市、塩尻市及び安曇野市の感染警戒レベルを5に引き上げ「新型コロナウイルス特別警報Ⅱ」を発出します"
     }
   ]
 }
