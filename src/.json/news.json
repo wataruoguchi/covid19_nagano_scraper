@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020/09/14",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#iryoukeihoukaizyo",
+      "text": "「医療警報」を解除します"
+    },
+    {
       "date": "2020/09/10",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#iryoukeihoukannsennkeikaireberu4",
       "text": "「医療非常事態宣言」を解除し「医療警報」を発出するとともに全県に感染警戒レベル４「新型コロナウイルス特別警報Ⅰ」を発出します"
