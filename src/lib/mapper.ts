@@ -24,7 +24,7 @@ function rawToData() {
       const todayMonth = today.getMonth() + 1;
       const todayYear = today.getFullYear();
       // If dateMonth bigger than todayMonth, it treats as last year.
-      return (todayMonth - parseInt(dateMonth, 10) < 0) ? todayYear - 1 : todayYear;
+      return (todayMonth < parseInt(dateMonth, 10)) ? todayYear - 1 : todayYear;
     }
     
     /**
