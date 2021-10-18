@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020/10/18",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#ueda_hikisage",
+      "text": "上田圏域の感染警戒レベルを引き下げます"
+    },
+    {
       "date": "2020/10/11",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#suwa_matsumoto_hikisage",
       "text": "諏訪圏域及び松本圏域の感染警戒レベルを引き下げます"
@@ -9,11 +14,6 @@
       "date": "2020/10/04",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#ueda_nagano_kamiina_hikisage",
       "text": "上田圏域、長野圏域及び上伊那圏域の感染警戒レベルを引き下げます"
-    },
-    {
-      "date": "2020/09/27",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#level4kaizyo",
-      "text": "全県の感染警戒レベル４を解除し各圏域の感染状況に応じたレベルに切り替えます"
     }
   ]
 }
