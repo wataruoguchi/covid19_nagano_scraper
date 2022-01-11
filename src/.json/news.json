@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020/01/11",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#matukawamatitoulv5",
+      "text": "松川町、高森町、阿南町及び喬木村の感染警戒レベルを５に引き上げ「新型コロナウイルス特別警報Ⅱ」を発出します"
+    },
+    {
       "date": "2020/01/10",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#oomatiotarilv5",
       "text": "大町市及び小谷村の感染警戒レベルを５に引き上げ「新型コロナウイルス特別警報Ⅱ」を発出します"
