@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020/01/14",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#matsumotoshilv5",
+      "text": "松本市、佐久市及び豊丘村の感染警戒レベルを５に引き上げ「新型コロナウイルス特別警報Ⅱ」を発出します"
+    },
+    {
       "date": "2020/01/13",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#naganositoulv5",
       "text": "軽井沢町、立科町及び長野市の感染警戒レベルを５に引き上げ「新型コロナウイルス特別警報Ⅱ」を発出します"
