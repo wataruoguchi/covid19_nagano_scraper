@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020/01/16",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#komaganeshitoulv5",
+      "text": "駒ヶ根市、小諸市、茅野市及び坂城町の感染警戒レベルを５に引き上げ「新型コロナウイルス特別警報Ⅱ」を発出します"
+    },
+    {
       "date": "2020/01/15",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#okayashitoulv5",
       "text": "岡谷市、原村、安曇野市、須坂市及び千曲市の感染警戒レベルを５に引き上げ「新型コロナウイルス特別警報Ⅱ」を発出します"
