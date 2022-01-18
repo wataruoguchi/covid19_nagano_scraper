@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020/01/18",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#nakanoshitoulv5",
+      "text": "中野市、野沢温泉村及び南牧村の感染警戒レベルを５に引き上げ「新型コロナウイルス特別警報Ⅱ」を発出します"
+    },
+    {
       "date": "2020/01/17",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#uedashitoulv5",
       "text": "上田市、東御市、下諏訪町及び辰野町の感染警戒レベルを５に引き上げ「新型コロナウイルス特別警報Ⅱ」を発出します"
