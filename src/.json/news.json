@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020/01/23",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#miyadamuralv5",
+      "text": "宮田村の感染警戒レベルを５に引き上げ「新型コロナウイルス特別警報Ⅱ」を発出します"
+    },
+    {
       "date": "2020/01/22",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#shinanomachilv5",
       "text": "信濃町の感染警戒レベルを５に引き上げ「新型コロナウイルス特別警報Ⅱ」を発出します"
