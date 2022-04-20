@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2022/04/20",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#iryokeihou220420",
+      "text": "全県に「医療警報」を発出します"
+    },
+    {
       "date": "2022/04/14",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#kitaarupusulv5",
       "text": "北アルプス圏域に「新型コロナウイルス特別警報Ⅱ」を発出します"
@@ -14,16 +19,6 @@
       "date": "2022/04/08",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#kansentaisakukeizoku",
       "text": "感染対策強化期間を終了し、引き続き感染警戒レベルに応じた対策を講じます"
-    },
-    {
-      "date": "2022/03/31",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#kamiinarevel5_0331",
-      "text": "上伊那圏域に「新型コロナウイルス特別警報Ⅱ」を発出します"
-    },
-    {
-      "date": "2022/03/29",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#iryoukeihoukaizyo",
-      "text": "「医療警報」解除後の県の対策についてはこちら"
     }
   ]
 }
