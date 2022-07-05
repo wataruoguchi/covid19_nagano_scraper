@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2022/07/05",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#kamiinalv3naganolv2",
+      "text": "上伊那圏域の感染警戒レベルを３に、長野圏域の感染警戒レベルを２に引き上げます"
+    },
+    {
       "date": "2022/06/30",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#kamiinalv2",
       "text": "上伊那圏域の感染警戒レベルを２に引き上げます"
