@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2022/07/07",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#naganolv3",
+      "text": "長野圏域の感染警戒レベルを３に引き上げます"
+    },
+    {
       "date": "2022/07/06",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#sakulv3suwalv2",
       "text": "佐久圏域の感染警戒レベルを３に、諏訪圏域の感染警戒レベルを２に引き上げます"
