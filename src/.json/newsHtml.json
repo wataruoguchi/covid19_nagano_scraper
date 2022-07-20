@@ -1,5 +1,9 @@
 [
   {
+    "date": "2022/07/20",
+    "text": "&nbsp; <a href=\"#iryokeiho220720\">全県に「医療警報」を発出します</a>"
+  },
+  {
     "date": "2022/07/13",
     "text": "&nbsp; <a href=\"#kitaarupusulv2hokushinlv3\">北アルプス圏域の感染警戒レベルを２に、北信圏域の感染警戒レベルを３に引き上げます</a>"
   },
@@ -10,69 +14,5 @@
   {
     "date": "2022/07/09",
     "text": "<a href=\"#kisolv2\">木曽圏域の感染警戒レベルを２に引き上げます</a>"
-  },
-  {
-    "date": "2022/07/08",
-    "text": "<a href=\"#uedasuwaminamisinnsyulv3\">上田圏域、諏訪圏域及び南信州圏域の感染警戒レベルを３に引き上げます</a>"
-  },
-  {
-    "date": "2022/07/07",
-    "text": "<a href=\"#naganolv3\">長野圏域の感染警戒レベルを３に引き上げます</a>"
-  },
-  {
-    "date": "2022/07/06",
-    "text": "<a href=\"#sakulv3suwalv2\">佐久圏域の感染警戒レベルを３に、諏訪圏域の感染警戒レベルを２に引き上げます</a>"
-  },
-  {
-    "date": "2022/07/05",
-    "text": "<a href=\"#kamiinalv3naganolv2\">上伊那圏域の感染警戒レベルを３に、長野圏域の感染警戒レベルを２に引き上げます</a>"
-  },
-  {
-    "date": "2022/06/30",
-    "text": "&nbsp;&nbsp;<a href=\"#kamiinalv2\">上伊那圏域の感染警戒レベルを２に引き上げます</a>"
-  },
-  {
-    "date": "2022/06/30",
-    "text": "&nbsp;&nbsp;<a href=\"#sakulv2\">佐久圏域の感染警戒レベルを２に引き下げます</a>"
-  },
-  {
-    "date": "2022/06/27",
-    "text": "&nbsp;&nbsp;<a href=\"#minamisinnsyuulv2\">南信州圏域の感染警戒レベルを２に引き上げます</a>"
-  },
-  {
-    "date": "2022/06/24",
-    "text": "&nbsp; <a href=\"#naganohokushinlv10624\">長野圏域及び北信圏域の感染警戒レベルを1に引き下げます</a>"
-  },
-  {
-    "date": "2022/06/22",
-    "text": "&nbsp; <a href=\"#minamishinshulv10621\">南信州圏域の感染警戒レベルを１に引き下げます</a>"
-  },
-  {
-    "date": "2022/06/21",
-    "text": "&nbsp; <a href=\"#kitaarupusulv1\">北アルプス圏域の感染警戒レベルを１に引き下げます</a>"
-  },
-  {
-    "date": "2022/06/20",
-    "text": "&nbsp; <a href=\"#sakulv3\">佐久圏域の感染警戒レベルを３に引き上げます</a>"
-  },
-  {
-    "date": "2022/06/20",
-    "text": "&nbsp; <a href=\"#suwalv1kitaarupusulv2\">諏訪圏域の感染警戒レベルを１に、北アルプス圏域の感染警戒レベルを２に引き下げます</a>"
-  },
-  {
-    "date": "2022/06/16",
-    "text": "&nbsp; <a href=\"#kamiinalv1220616\">上伊那圏域の感染警戒レベルを1に引き下げます</a>"
-  },
-  {
-    "date": "2022/06/10",
-    "text": "&nbsp;&nbsp;<a href=\"#kitaarupusulv3\">北アルプス圏域の感染警戒レベルを３に引き上げます</a>"
-  },
-  {
-    "date": "2022/06/09",
-    "text": "<a href=\"#suwakamiinanaganolv20609\">諏訪圏域、上伊那圏域及び長野圏域の感染警戒レベルを2に引き下げます</a>"
-  },
-  {
-    "date": "2022/05/23",
-    "text": "<a href=\"#iryokeihoukaijyo\">「医療警報」を解除するとともに、各圏域の感染警戒レベルを切り替えます</a>"
   }
 ]
