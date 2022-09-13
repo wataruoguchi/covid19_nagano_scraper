@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2022/09/13",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#iryohijyojitaikaijyo",
+      "text": "「医療非常事態宣言」を解除し「医療特別警報」に切り替えます"
+    },
+    {
       "date": "2022/09/02",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#ba5syuryo",
       "text": "「BA.5対策強化宣言」を終了し、「医療非常事態宣言」を継続します"
