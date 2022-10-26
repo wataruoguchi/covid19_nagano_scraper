@@ -1,73 +1,13 @@
 {
   "newsItems": [
     {
+      "date": "2022/10/26",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#kisolv3",
+      "text": "木曽圏域の感染警戒レベルを３に引き上げます"
+    },
+    {
       "date": "2022/10/20",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#iryokeihou221020",
-      "text": "全県に「医療警報」を発出します"
-    },
-    {
-      "date": "2022/10/04",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#iryokeihoukaijyo",
-      "text": "「医療警報」を解除します"
-    },
-    {
-      "date": "2022/09/30",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#kisolv2",
-      "text": "木曽圏域の感染警戒レベルを２に引き下げます"
-    },
-    {
-      "date": "2022/09/22",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#iryotokubetukeihoukaiyo",
-      "text": "「医療特別警報」を解除し「医療警報」に切り替えます"
-    },
-    {
-      "date": "2022/09/16",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#kisolv3220916",
-      "text": "木曽圏域の感染警戒レベルを3に引き上げます"
-    },
-    {
-      "date": "2022/09/13",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#iryohijyojitaikaijyo",
-      "text": "「医療非常事態宣言」を解除し「医療特別警報」に切り替えます"
-    },
-    {
-      "date": "2022/09/02",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#ba5syuryo",
-      "text": "「BA.5対策強化宣言」を終了し、「医療非常事態宣言」を継続します"
-    },
-    {
-      "date": "2022/08/24",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#ba5taisaku0824-0904",
-      "text": "「BA.5対策強化宣言」を発出します"
-    },
-    {
-      "date": "2022/08/08",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#iryohijyojitaisengen",
-      "text": "全県に「医療非常事態宣言」を発出します"
-    },
-    {
-      "date": "2022/07/28",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#R040728kisolv4",
-      "text": "木曽圏域の感染警戒レベルを４に引き上げます"
-    },
-    {
-      "date": "2022/07/28",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#R040728iryotokubetukeihou",
-      "text": "全県に「医療特別警報」を発出します"
-    },
-    {
-      "date": "2022/07/23",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#kiso3kitaarupusu4220723",
-      "text": "木曽圏域の感染警戒レベルを3に、北アルプス圏域の感染警戒レベルを4に引き上げます"
-    },
-    {
-      "date": "2022/07/21",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#kitaarupusulv20721",
-      "text": "北アルプス圏域の感染警戒レベルを3に引き上げます"
-    },
-    {
-      "date": "2022/07/20",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#iryokeiho220720",
       "text": "全県に「医療警報」を発出します"
     }
   ]
