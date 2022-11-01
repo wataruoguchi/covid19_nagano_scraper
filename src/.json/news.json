@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2022/11/01",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#naganolv4",
+      "text": "長野圏域の感染警戒レベルを４に引き上げます"
+    },
+    {
       "date": "2022/10/28",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#revelchange221028",
       "text": "各圏域の感染警戒レベルを切り替えます"
