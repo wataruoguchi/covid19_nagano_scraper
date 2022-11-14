@@ -1,24 +1,29 @@
 {
   "newsItems": [
     {
+      "date": "2022/11/14",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#R41114iryohijyojitai",
+      "text": "全県に「医療非常事態宣言」を発出します(NEW)"
+    },
+    {
       "date": "2022/11/07",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#R41107kamiinalv5",
-      "text": "上伊那圏域の感染警戒レベルを5に引き上げます (NEW)"
+      "text": "上伊那圏域の感染警戒レベルを5に引き上げます"
     },
     {
       "date": "2022/11/07",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#R41107kisolv3",
-      "text": "木曽圏域の感染警戒レベルを3に引き下げます (NEW)"
+      "text": "木曽圏域の感染警戒レベルを3に引き下げます"
     },
     {
       "date": "2022/11/04",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#iryotokubetsu221104",
-      "text": "全県に「医療特別警報」を発出します   (NEW)"
+      "text": "全県に「医療特別警報」を発出します"
     },
     {
       "date": "2022/11/04",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#area8lv5R41104",
-      "text": "8圏域の感染警戒レベルを5に引き上げます  (NEW)"
+      "text": "8圏域の感染警戒レベルを5に引き上げます"
     },
     {
       "date": "2022/11/02",
