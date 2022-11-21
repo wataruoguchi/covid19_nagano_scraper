@@ -1,9 +1,14 @@
 {
   "newsItems": [
     {
+      "date": "2022/11/21",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#kisolv4",
+      "text": "木曽圏域の感染警戒レベルを４に引き上げます  (NEW)"
+    },
+    {
       "date": "2022/11/14",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#R41114iryohijyojitai",
-      "text": "全県に「医療非常事態宣言」を発出します(NEW)"
+      "text": "全県に「医療非常事態宣言」を発出します"
     },
     {
       "date": "2022/11/07",
