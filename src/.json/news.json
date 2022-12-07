@@ -1,14 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2022/12/07",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#R041207nennmatunennsi",
+      "text": "健やかに年末年始を過ごすためのお願い（NEW）"
+    },
+    {
       "date": "2022/12/01",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#kisolv5",
-      "text": "木曽圏域の感染警戒レベルを５に引き上げます（NEW)"
+      "text": "木曽圏域の感染警戒レベルを５に引き上げます"
     },
     {
       "date": "2022/11/29",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#iryohukakeigen221129",
-      "text": "医療への負荷軽減にご協力をお願いします（NEW)"
+      "text": "医療への負荷軽減にご協力をお願いします"
     },
     {
       "date": "2022/11/21",
