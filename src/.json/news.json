@@ -1,9 +1,14 @@
 {
   "newsItems": [
     {
+      "date": "2022/12/22",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#onegai221122",
+      "text": "健やかに年末年始を過ごすためのお願い（改定）（NEW）"
+    },
+    {
       "date": "2022/12/07",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#R041207nennmatunennsi",
-      "text": "健やかに年末年始を過ごすためのお願い（NEW）"
+      "text": "健やかに年末年始を過ごすためのお願い"
     },
     {
       "date": "2022/12/01",
