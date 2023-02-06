@@ -1,11 +1,15 @@
 [
   {
     "date": "",
-    "text": "令和5年2月2日　&nbsp;<a href=\"#hokushin4kitaaru3\"> 北信圏域の感染警戒レベルを４に、北アルプス圏域の感染警戒レベルを３に引き下げます</a><span class=\"txt_red\">（<strong>NEW</strong>）</span>"
+    "text": "令和5年2月6日　&nbsp; <a href=\"#lv3suwamatsumoto230206\">諏訪圏域及び松本圏域の感染警戒レベルを３に引下げます</a><span class=\"txt_red\">（<strong>NEW</strong>）</span>"
   },
   {
     "date": "",
-    "text": "令和5年2月1日　&nbsp; <a href=\"#sakul3kisollow\">佐久圏域の感染警戒レベルを３に、木曽圏域の感染警戒レベルを小康期に引き下げます</a><span class=\"txt_red\">（<strong>NEW</strong>）</span>"
+    "text": "令和5年2月2日　&nbsp;<a href=\"#hokushin4kitaaru3\"> 北信圏域の感染警戒レベルを４に、北アルプス圏域の感染警戒レベルを３に引き下げます</a>"
+  },
+  {
+    "date": "",
+    "text": "令和5年2月1日　&nbsp; <a href=\"#sakul3kisollow\">佐久圏域の感染警戒レベルを３に、木曽圏域の感染警戒レベルを小康期に引き下げます</a>"
   },
   {
     "date": "",
@@ -14,25 +18,5 @@
   {
     "date": "",
     "text": "令和5年1月31日　<a href=\"#iryohijyojitaisengenkaijyo\">「医療非常事態宣言」を解除し「医療特別警報」に切り替えます</a>"
-  },
-  {
-    "date": "",
-    "text": "令和5年1月30日　<a href=\"#R230130lv4\">諏訪圏域、南信州圏域及び松本圏域の感染警戒レベルを4に引き下げます</a>"
-  },
-  {
-    "date": "",
-    "text": "令和5年1月27日　<a href=\"#uedal4\">上田圏域の感染警戒レベルを4に引き下げます</a>"
-  },
-  {
-    "date": "",
-    "text": "令和5年1月24日　<a href=\"#lv4kitaarunagano230124\">北アルプス圏域及び長野圏域の感染警戒レベルを4に引き下げます</a>"
-  },
-  {
-    "date": "",
-    "text": "令和5年1月23日　<a href=\"#sakukiso230123\">佐久圏域の感染警戒レベルを4に、木曽圏域の感染警戒レベルを3に引き下げます</a>"
-  },
-  {
-    "date": "",
-    "text": "令和5年1月20日　<a href=\"#kisolv4\">木曽圏域の感染警戒レベルを４に引き下げます</a>"
   }
 ]
