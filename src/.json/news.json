@@ -2,8 +2,13 @@
   "newsItems": [
     {
       "date": "",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#matsumotosyoukouki",
+      "text": "令和5年2月24日   松本圏域の感染警戒レベルを小康期に引き下げます"
+    },
+    {
+      "date": "",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#uedasyoukouki",
-      "text": "令和5年2月21日   上田圏域の感染警戒レベルを小康期に引き下げます（NEW）"
+      "text": "令和5年2月21日   上田圏域の感染警戒レベルを小康期に引き下げます"
     },
     {
       "date": "",
@@ -24,41 +29,6 @@
       "date": "",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#iryoara-tokaijyo",
       "text": "令和5年2月10日   「医療アラート」を解除します"
-    },
-    {
-      "date": "",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#kamiinalv3",
-      "text": "令和5年2月8日     上伊那圏域の感染警戒レベルを３に引き下げます"
-    },
-    {
-      "date": "",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#lv3uedahokushin3",
-      "text": "令和5年2月7日　  上田圏域及び北信圏域の感染警戒レベルを3に引き下げます"
-    },
-    {
-      "date": "",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#lv3suwamatsumoto230206",
-      "text": "令和5年2月6日　  諏訪圏域及び松本圏域の感染警戒レベルを3に引き下げます"
-    },
-    {
-      "date": "",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#hokushin4kitaaru3",
-      "text": "令和5年2月2日　  北信圏域の感染警戒レベルを４に、北アルプス圏域の感染警戒レベルを３に引き下げます"
-    },
-    {
-      "date": "",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#sakul3kisollow",
-      "text": "令和5年2月1日　  佐久圏域の感染警戒レベルを３に、木曽圏域の感染警戒レベルを小康期に引き下げます"
-    },
-    {
-      "date": "",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#kamiinalv4naganolv3",
-      "text": "令和5年1月31日　上伊那圏域の感染警戒レベルを４に、長野圏域の感染警戒レベルを３に引き下げます"
-    },
-    {
-      "date": "",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#iryohijyojitaisengenkaijyo",
-      "text": "令和5年1月31日　「医療非常事態宣言」を解除し「医療特別警報」に切り替えます"
     }
   ]
 }
