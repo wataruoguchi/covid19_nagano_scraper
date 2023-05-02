@@ -2,6 +2,11 @@
   "newsItems": [
     {
       "date": "",
+      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#kiso20230502",
+      "text": "令和5年5月2日　木曽圏域の感染警戒レベルを小康期に引き下げます"
+    },
+    {
+      "date": "",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#hokushin0501",
       "text": "令和5年5月1日　北信圏域の感染警戒レベルを小康期に引き下げます"
     },
@@ -9,11 +14,6 @@
       "date": "",
       "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#minamishinsyu0426",
       "text": "令和5年4月26日　南信州圏域の感染警戒レベルを3に引き上げます"
-    },
-    {
-      "date": "",
-      "url": "https://www.pref.nagano.lg.jp/hoken-shippei/kenko/kenko/kansensho/joho/corona-onegai.html#kisohokushin0420",
-      "text": "令和5年4月20日   木曽圏域及び北信圏域の感染警戒レベルを3に引き上げます"
     }
   ]
 }
